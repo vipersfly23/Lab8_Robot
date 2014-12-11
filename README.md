@@ -1,10 +1,6 @@
 Lab8_Robot
 ==========
 Maze Robot -- SO MUCH FUN!
-Lab7_Robot
-==========
-
-ECE 382,LAB 7
 
 ###Objective and Purpose:
 
