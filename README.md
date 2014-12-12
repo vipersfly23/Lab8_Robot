@@ -82,24 +82,22 @@ Timer: Backbone of Lab. Sets all the flags and obtains values from the ADC.
   a wall. Though it won't run into a wall, it's difficult to have it complete a maze.
 	
 	Testing: The testing was conducted in the maze. It was pretty much trial and error. I knew that my robot was worked,
-	I just had to configure the values correctly to complete the maze. A big issue with the robot was the battery, different
-	battery would output different values thus I had to re-configure what values would set off the flags each time. Another
-	problem with testing was the speed in correlation to the sensors. If the robot moved too fast the senors would be too slow
-	and by the time the flags were set the robot would have already slam in a wall. The testing was difficult and tedious but
-	eventually worked and I was able to complete both A functionality and Bonus Functionality.
+I just had to configure the values correctly to complete the maze. A big issue with the robot was the battery, different battery would output different values thus I had to re-configure what values would set off the flags each time. Another problem with testing was the speed in correlation to the sensors. If the robot moved too fast the senors would be too slow and by the time the flags were set the robot would have already slam in a wall. The testing was difficult and tedious
+but eventually worked and I was able to complete both A functionality and Bonus Functionality.
 	
 	
-Lessons Learned:
+###Lessons Learned:
 
 	The biggets lesson learned was that different power source has a huge impact on system, thus should be accounted for. 
 	The characterization I completed in Lab7 was only applicable to that particular setting. There are also other outside
-	factors that need to be considered, such as: room lighting, particular maze, power supply, sensor positions and shadows.
+	factors that need to be considered, such as: room lighting, particular maze, power supply, sensor positions and
+	shadows.
 	All these played a significant role in the success of the robot.
-	
-	Conclusively, I had a great time with the robot. One of the purpose for this lab is to allow cadets to enjoy computer 
-	engineering and I definitely did that. Not only that, but the robot was a success. I was able to complete A functionality,
-	along with bonus functionality. Though the robot moved slowly, the requirements were met and overall the robot was a lot 
-	of fun!
+
+###Conclusion	
+	Conclusively, I had a great time with the robot. One of the purpose for this lab is to allow cadets to enjoy computer 	engineering and I definitely did that. Not only that, but the robot was a success. I was able to complete A
+	functionality,along with bonus functionality. Though the robot moved slowly, the requirements were met and overall
+	the robot was a	lot of fun!
 	
 ###Documentation:
 	
