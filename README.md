@@ -23,7 +23,7 @@ A Functionality: [COMPLETED]
 
 Best time: 45 seconds
 
-Bonus Functionality:
+Bonus Functionality [COMPLETED]:
   
 Robot successfully navigated the maze back home.
 
